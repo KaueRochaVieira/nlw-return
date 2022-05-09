@@ -65,8 +65,7 @@ function closeMenu() {
 ScrollReveal({
   origin: 'top',
   distance: '30px',
-  duration: 700,
-  reset: true
+  duration: 700
 }).reveal(`
   #home, 
   #home img, 
